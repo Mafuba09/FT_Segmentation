@@ -1,0 +1,6 @@
+simpleitk
+tensorflow
+scipy
+tqdm
+scikit-image
+nibabel
